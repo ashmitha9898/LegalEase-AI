@@ -1,8 +1,12 @@
-# LegalEase – AI-Powered Legal Document Generator
-
 ## 🚀 Live Application
 
 👉 [Open LegalEase](https://legalease-ai-wluodm7inslqgdchiqgrrv.streamlit.app/)
+
+## ⚙️ Backend API
+
+👉 [Open Backend API](https://legalease-ai-uv25.onrender.com/)
+
+👉 [API Documentation](https://legalease-ai-uv25.onrender.com/docs)
 
 ## 💻 GitHub Repository
 
